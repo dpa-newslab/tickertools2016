@@ -1,4 +1,4 @@
-#The unofficial News-Stream API 
+# The unofficial News-Stream API 
 
 At Tickertools hackathon, the unofficial News-Stream API is presented for the first time. The API grants access to the news index compiled by the [News-Stream](http://newsstreamproject.org) research project. The search index (Apache Solr) contains annotated news:
 
@@ -75,6 +75,7 @@ The following fields are only avaiable for Neofonie's news feed.
 
 The following fields are only avaiable for dpa documents.
 
+
 | **dpa** |   |   |
 | --- | ------ | -------------- |
 | dpaId | string | news id |
@@ -88,7 +89,8 @@ The following fields are only avaiable for dpa documents.
 
 
 
-##German news sources
+## German news sources
+
 | **neoPublicationId** | **neoApplication** | **Bezeichnung** |
 | --- | --- | --- |
 | 130 | bz | B.Z. |
@@ -119,7 +121,7 @@ The following fields are only avaiable for dpa documents.
 | 248 | waz | Westdeutsche Allgemeine |
 
 
-## American news sources##
+## American news sources
 | **neoPublictionId** | **neoApplication** | **Name** |
 | --- | --- | --- |
 |  864 | chron | Houston News |
